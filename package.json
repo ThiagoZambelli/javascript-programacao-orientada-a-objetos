@@ -1,0 +1,21 @@
+{
+  "name": "javascript-programacao-orientada-a-objetos",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoZambelli/javascript-programacao-orientada-a-objetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoZambelli/javascript-programacao-orientada-a-objetos/issues"
+  },
+  "homepage": "https://github.com/ThiagoZambelli/javascript-programacao-orientada-a-objetos#readme"
+}
