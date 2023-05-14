@@ -66,6 +66,9 @@ Um dos diagramas mais comuns de ser representado utilizando a UML é o diagrama 
 ## `npm init -y`:
 > Comando de criação do arquivo de configuração do npm
 
+## `get` e `set`:
+> Dentro de uma classe, nos encapsulamos as variaveis e suas possibilidades de serem pegas ou alteradas dentro da propria classe. Isso faz com que so possa acessar quem tem a permissao e o mesmo vale para alterar.
+
 ## Metodos estaticos:
 > Metodos não estaticos so podem ser invocados mediante uma instancia da classe a qual pertencem, porem metodos estaticos podem ser invocados diretamente da classe sem a necessidade de intsncia.
   - E.X:
@@ -122,3 +125,9 @@ Um dos diagramas mais comuns de ser representado utilizando a UML é o diagrama 
 - O conceito de herança de classe, também importante para se trabalhar com orientação a objetos, como criar subclasses que herdam propriedades e métodos de uma superclasse e como reaproveitar estas propriedades e métodos da superclasse através da função super();
 - Como uma subclasse pode ter propriedades e métodos próprios, além dos recebidos da superclasse, e como declarar isso no código criando novos métodos;
 - A praticar a sintaxe de classe com JavaScript, criando classes, subclasses, propriedades, construtores e métodos.
+
+## Aula 4:
+
+- O conceito de encapsulamento, que é a ação (ou ações) de “esconder” atributos de uma classe, para evitar acesso indevido a atributos importantes ou dados sensíveis, ou que métodos sejam utilizados de forma errada;
+- Como utilizar a sintaxe de atributos privados do JavaScript, através do prefixo #, para que a própria linguagem de programação faça a “segurança” da classe, impedindo o acesso externo a propriedades e métodos assinalados como privados com este prefixo;
+- A criar métodos assessors para “expôr” e permitir acesso e modificação de propriedades de forma controlada e restrita, através do uso das funções get para retornar dados específicos e set para definir dados específicos.
